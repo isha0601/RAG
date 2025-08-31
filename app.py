@@ -98,8 +98,9 @@ while True:
     """
 
     answer = llm.invoke(prompt)
-    print("ANSWER:", answer.content, "\n")  # ✅ .content for OpenAI responses
+    print("ANSWER:", answer.content, "\n")  #  .content for OpenAI responses
 
     print("FIRST DOCUMENTS BY RELEVANCE:")
     for doc in docs:
         print(f"    \"{doc.page_content[:100]}...\"")
+
