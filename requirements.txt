@@ -1,0 +1,12 @@
+pinecone
+python-dotenv
+groq
+langchain
+PyPDF2
+openai
+tiktoken
+sentence-transformers
+langchain_pinecone
+langchain_community
+langchain_huggingface
+langchain_openai
