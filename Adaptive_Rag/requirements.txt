@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+tiktoken
+pinecone-client
+python-dotenv
+openai
+langchain_tavily
+langchain_pinecone
